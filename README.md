@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Andrea
 
 **Software Engineer**  
-Bachelor's degree holder in Electronic and Computer Engineering with experience in conducting a thesis focused on the application of Machine Learning.
+🎓 Bachelor's degree holder in Electronic and Computer Engineering with experience in conducting a thesis focused on the application of Machine Learning.
 
 - 🌍 I'm based in **Caserta, Italy**
 - 📧 You can contact me at **andrea.piscitelli.1997@gmail.com**
-- 🚀 I'm currently learning **Cloud Technologies** and **Container-based applications**
+- 🚀 I'm currently working as **Software Developer** for **3F&EDIN**
+- 📚 I'm currently learning **Cloud Technologies** and **Container-based applications**
 - 💡 I'm ready to further develop skills in **the Technology Area**
 
 ---
