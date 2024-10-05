@@ -13,33 +13,41 @@
 
 ### 🛠️ **Skills**
 <p>
-    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img alt="Openpyxl" src="https://img.shields.io/badge/Openpyxl-FFD43B.svg?style=for-the-badge&logo=python&logoColor=black"/>
-    <img alt="Google Maps API" src="https://img.shields.io/badge/Google_Maps_API-4285F4.svg?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
-    <img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00.svg?style=for-the-badge&logo=labview&logoColor=black"/>
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-    <img alt="VHDL" src="https://img.shields.io/badge/VHDL-4B0082.svg?style=for-the-badge"/>
+    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Openpyxl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Google Maps API" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="SQL" src="https://www.svgrepo.com/show/255832/sql.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Oracle DB" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" style="padding:0; margin:0"/>
+    <img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" style="padding:0; margin:0"/>
 </p>
+
 
 ---
 
 ### 🔗 **Socials**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-piscitelli-34379b153/)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndrixMcCormick)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-piscitelli-34379b153/)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndrixMcCormick) -->
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+    <a href="https://x.com/AndrixMcCormick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ---
 
