@@ -26,7 +26,6 @@
     <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Openpyxl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="Google Maps API" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" height="40" style="padding:0; margin:0"/>
     <img alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" style="padding:0; margin:0"/>
