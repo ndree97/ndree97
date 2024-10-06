@@ -37,13 +37,8 @@
     <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Google Colab" src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" height="40" style="padding:0; margin:0"/>
     <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" style="padding:0; margin:0"/>
     <img alt="Keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Ultralytics" src="https://github.com/ultralytics/assets/raw/main/logos/logo.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="ClearML" src="https://clear.ml/wp-content/themes/clearml/assets/images/logo-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Openpyxl" src="https://www.svgrepo.com/show/354376/openpyxl.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="LabVIEW" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/LabVIEW_logo_icon.svg" height="40" style="padding:0; margin:0"/>
 </p> 
 
 
