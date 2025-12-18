@@ -63,7 +63,7 @@ Deep Learning model tuning for classifying 3D outdoor scenes.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=transparent&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="languages graph" />
 </div>
 
 ---
@@ -74,3 +74,4 @@ Deep Learning model tuning for classifying 3D outdoor scenes.
     <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     <a href="https://x.com/AndrixMcCormick" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
