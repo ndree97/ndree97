@@ -1,77 +1,76 @@
 # 👋 Hi, I'm Andrea
 
-**Software Engineer**  
-🎓 Bachelor's degree holder in Electronic and Computer Engineering with experience in conducting a thesis focused on the application of Machine Learning.
+**R&D Software Engineer** | **3D Computer Vision** | **Autonomous Systems**
 
-- 🌍 I'm based in **Caserta, Italy**
-- 📧 You can contact me at **andrea.piscitelli.1997@gmail.com**
-- 🚀 I'm currently working as **Software Developer** for **3F&EDIN**
-- 📚 I'm currently learning **Cloud Technologies** and **Container-based applications**
-- 💡 I'm ready to further develop skills in **the Technology Area**
+I am a specialized software engineer based in **Caserta, Italy**, with a strong focus on **Point Cloud Processing**, **LiDAR Integration**, and **Robotics**. My work bridges the gap between hardware sensors and high-level 3D reconstruction pipelines.
 
----
-
-### 🛠️ **Skills**<p>
-    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Google Maps API" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="SQL" src="https://www.svgrepo.com/show/255832/sql.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Oracle DB" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" style="padding:0; margin:0"/>
-    <img alt="Keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" style="padding:0; margin:0"/>
-</p> 
-
+- 🔭 I’m currently working on **Autonomous Inspection Systems** & **3D Reconstruction Pipelines** at **3F & Edin**.
+- 🔬 I’m experimenting with **GeoTransformer** for point cloud registration and **NeRF** architectures.
+- 📐 I’m deeply interested in **Geometric Deep Learning** and **Visual SLAM** optimization.
+- 📧 Contact me at: **andrea.piscitelli.1997@gmail.com**
 
 ---
 
-### 🔗 **Socials**
+### 🛠️ **Core Tech Stack**
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-piscitelli-34379b153/)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndrixMcCormick) -->
+**Languages & Scientific Computing**
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-4279F2?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="https://x.com/AndrixMcCormick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+**3D Computer Vision & Deep Learning**
+<p>
+    <img alt="Open3D" src="https://img.shields.io/badge/Open3D-333333?style=for-the-badge&logo=opengl&logoColor=white" />
+    <img alt="PCL" src="https://img.shields.io/badge/PCL-Point%20Cloud%20Library-blue?style=for-the-badge" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+**DevOps & Tools**
+<p>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 **My GitHub Stats**
+### 🔬 **Research & Projects**
 
-![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndree97&show_icons=true&theme=dark&hide=stars)
+#### ☁️ [**LiDAR & Photogrammetry Registration Pipeline**](#) *(Coming Soon / Private Repo)*
+Developing a robust benchmarking pipeline for aligning multi-source point clouds.
+*   **Tech:** Python, Open3D, GeoTransformer.
+*   **Goal:** Comparing classical **ICP** refinement against Deep Learning based **Coarse-to-Fine** registration.
+
+#### 🧠 [**Semantic Point Cloud Segmentation**](#) *(Coming Soon / Private Repo)*
+Deep Learning model tuning for classifying 3D outdoor scenes.
+*   **Tech:** PyTorch, PointNet++, Data Augmentation strategies.
+*   **Focus:** Implementing rotation-invariant augmentation for raw LiDAR data.
 
 ---
 
-<!-- - **Total Stars Earned**: 2  
-- **Total Commits (2024)**: 13  
-- **Total PRs**: 1  
-- **Total Issues**: 1  
-- **Contributed to (last year)**: 1  
+### 📈 **GitHub Stats**
 
---- -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndree97&show_icons=true&theme=transparent&hide=stars&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
 
-### 📈 **Contributions**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=transparent&hide_border=true" alt="streak graph" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=dark)
+---
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+### 🔗 **Connect with me**
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://x.com/AndrixMcCormick" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
