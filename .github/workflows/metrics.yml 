@@ -1,11 +1,15 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (Optional) Run workflow manually
+  # Aggiorna ogni giorno a mezzanotte
+  schedule:
+    - cron: "0 0 * * *"
+  # Permette di avviarlo a mano
   workflow_dispatch:
-  # (Optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # Esegue quando pushi modifiche
+  push:
+    branches:
+      - master
+      - main
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -19,5 +23,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
-          # Include private contributions
           committer_token: ${{ secrets.METRICS_TOKEN }}
