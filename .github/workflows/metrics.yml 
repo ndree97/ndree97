@@ -1,10 +1,11 @@
 name: Metrics
 on:
-  # Aggiorna ogni 24 ore
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Aggiorna quando pushi sul branch main
-  push: {branches: ["master", "main"]}
+  # (Optional) Run workflow manually
   workflow_dispatch:
+  # (Optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,10 +15,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Opzioni simili a readme-stats
           user: ndree97
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
-          # Se vuoi includere i repo privati
-          committer_token: ${{ secrets.METRICS_TOKEN }} 
+          # Include private contributions
+          committer_token: ${{ secrets.METRICS_TOKEN }}
