@@ -95,24 +95,31 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 ### 📊 **GitHub Activity & Statistics**
 
 <div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
-</div>
-
 ---
 
-### ⏱️ **Weekly Coding Activity (WakaTime)**
+### ⭐ **Star History**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <a href="https://star-history.com/#ndree97/ndree97&ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" width="100%" />
+    </picture>
+  </a>
+</div>
 
 ---
 
