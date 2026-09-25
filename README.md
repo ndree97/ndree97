@@ -1,41 +1,71 @@
-# 👋 Hi, I'm Andrea
+<div align="center">
+  <h1>👋 Hi, I'm Andrea Piscitelli</h1>
+  <p><strong>R&D Software Engineer &nbsp;|&nbsp; 3D Computer Vision &nbsp;|&nbsp; Autonomous Systems & Robotics</strong></p>
+  <p>
+    📍 <em>Caserta / Naples, Italy</em> &nbsp;•&nbsp; 
+    🏢 <em>R&D at 3F & Edin</em> &nbsp;•&nbsp; 
+    📫 <a href="mailto:andrea.piscitelli.1997@gmail.com">andrea.piscitelli.1997@gmail.com</a>
+  </p>
 
-**R&D Software Engineer** | **3D Computer Vision** | **Autonomous Systems**
-
-I am a specialized software engineer based in **Caserta, Italy**, with a strong focus on **Point Cloud Processing**, **LiDAR Integration**, and **Robotics**. My work bridges the gap between hardware sensors and high-level 3D reconstruction pipelines.
-
-- 🔭 I’m currently working on **Autonomous Inspection Systems** & **3D Reconstruction Pipelines** at **3F & Edin**.
-- 🔬 I’m experimenting with **GeoTransformer** for point cloud registration and **NeRF** architectures.
-- 📐 I’m deeply interested in **Geometric Deep Learning** and **Visual SLAM** optimization.
-- 📧 Contact me at: **andrea.piscitelli.1997@gmail.com**
+  <p>
+    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/AndrixMcCormick" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+    <a href="https://github.com/ndree97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ **Core Tech Stack**
+### 🚀 **About Me & Engineering Focus**
+
+I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR Integration**, and **Robotics**. My work bridges the gap between hardware sensory acquisition and robust 3D reconstruction, computer vision, and autonomous inspection pipelines.
+
+- 🔭 **Current Focus**: Designing automated 3D reconstruction pipelines and autonomous inspection workstations at **3F & Edin**.
+- 🔬 **Research & Deep Learning**: Experimenting with **GeoTransformer** for point cloud registration, **PointNet++** for outdoor semantic segmentation, and neural representation models (**NeRF** / 3D Gaussian Splatting).
+- 📐 **Geometric Vision & Robotics**: Developing multi-scale coarse-to-fine registration algorithms (FPFH + RANSAC + Point-to-Plane ICP) and integrating ROS/ROS2 with visual/LiDAR SLAM.
+
+---
+
+### 🔬 **Featured Technical Projects & R&D**
+
+#### 🏭 [**Pipe Detector & 3D Geometry Fitting Engine**](https://github.com/ndree97)
+*Interactive desktop application for dense industrial point cloud inspection, pipe segmentation, and CAD geometry extraction.*
+- **Tech Stack:** Python 3.12, Open3D, VTK, PyVistaQt, PyQt5, SciPy, NumPy.
+- **Capabilities:** Fast KDTree spatial queries, automated RANSAC cylinder estimation, connectivity graph analysis, and multi-format export (`.pipeproject`, STL, VTK).
+
+#### ☁️ [**PC Navigator — High-Throughput Point Cloud Workstation**](https://github.com/ndree97)
+*Multi-threaded processing workstation for massive geospatial and industrial LiDAR data (LAS / LAZ).*
+- **Tech Stack:** Python, PyQt5, NumPy, Open3D, Multiprocessing Workers.
+- **Capabilities:** Real-time scalar field computation, statistical & radius outlier removal (SOR/ROR), vertical plane segmentation, and custom camera navigation filters.
+
+#### 🔄 [**Robust Coarse-to-Fine Point Cloud Registration Pipeline**](https://github.com/ndree97)
+*Production-ready pipeline for rigid alignment of multi-source and multi-scale point clouds.*
+- **Tech Stack:** Open3D, Python, C++, NumPy.
+- **Methodology:** Multi-scale voxel downsampling ➔ Hybrid normal estimation ➔ FPFH feature extraction ➔ RANSAC mutual-correspondence global alignment ➔ Point-to-Plane ICP refinement (inlier RMSE < 1e-3).
+
+---
+
+### 🛠️ **Tech Stack & Tooling**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,swift,matlab,js,html,css,bash,powershell,pytorch,tensorflow,opencv,anaconda,threejs,ros,cmake,arduino,raspberrypi,unity,react,vue,flutter,tailwind,bootstrap,fastapi,flask,nodejs,express,nestjs,graphql,mongodb,mysql,redis,kafka,gcp,cloudflare,vercel,supabase,firebase,docker,kubernetes,openstack,git,github,gitlab,npm,postman,gtk,latex,vscode,visualstudio,eclipse,md,obsidian,figma,ps,sketchup,ableton,notion,linux,apple,windows,discord,stackoverflow&perline=5" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,swift,matlab,js,html,css,bash,powershell,gtk,latex,md,pytorch,tensorflow,opencv,anaconda,threejs,ros,cmake,arduino,raspberrypi,unity,sketchup,figma,ps,react,vue,flutter,tailwind,bootstrap,fastapi,flask,nodejs,express,nestjs,graphql,npm,postman,docker,kubernetes,openstack,git,github,gitlab,gcp,cloudflare,vercel,supabase,firebase,mongodb,mysql,redis,kafka,vscode,visualstudio,eclipse,obsidian,notion,ableton,linux,apple,windows,discord,stackoverflow&perline=13" alt="Tech Stack" />
   </a>
 </p>
 
----
+<details>
+  <summary>🔍 <strong>Categorical Breakdown (65 Technologies)</strong></summary>
 
-### 🔬 **Research & Projects**
-
-#### ☁️ [**LiDAR & Photogrammetry Registration Pipeline**](#) *(Coming Soon / Private Repo)*
-Developing a robust benchmarking pipeline for aligning multi-source point clouds.
-*   **Tech:** Python, Open3D, GeoTransformer.
-*   **Goal:** Comparing classical **ICP** refinement against Deep Learning based **Coarse-to-Fine** registration.
-
-#### 🧠 [**Semantic Point Cloud Segmentation**](#) *(Coming Soon / Private Repo)*
-Deep Learning model tuning for classifying 3D outdoor scenes.
-*   **Tech:** PyTorch, PointNet++, Data Augmentation strategies.
-*   **Focus:** Implementing rotation-invariant augmentation for raw LiDAR data.
+  - **Languages & Scripting:** Python, C++, C#, Swift, MATLAB, JavaScript, HTML5, CSS3, Bash, PowerShell, GTK, LaTeX, Markdown.
+  - **AI, 3D Vision, Robotics & Graphics:** PyTorch, TensorFlow, OpenCV, Anaconda, Three.js, ROS, CMake, Arduino, Raspberry Pi, Unity, SketchUp, Figma, Photoshop.
+  - **Web, Mobile & Backend Frameworks:** React, Vue, Flutter, Tailwind CSS, Bootstrap, FastAPI, Flask, Node.js, Express, NestJS, GraphQL, npm, Postman.
+  - **Cloud, DevOps, Database & Infrastructure:** Docker, Kubernetes, OpenStack, Git, GitHub, GitLab, Google Cloud, Cloudflare, Vercel, Supabase, Firebase, MongoDB, MySQL.
+  - **Data Stores, IDEs, Productivity & OS:** Redis, Apache Kafka, VS Code, Visual Studio, Eclipse, Obsidian, Notion, Ableton, Linux, macOS/Apple, Windows, Discord, Stack Overflow.
+</details>
 
 ---
 
-### ⚡ **Recent Open Source Projects**
+### ⚡ **Recent Open Source Activity**
 
 <!-- START_SECTION:projects -->
 
@@ -56,21 +86,19 @@ Deep Learning model tuning for classifying 3D outdoor scenes.
 
 ---
 
-### 📈 **GitHub Stats**
+### 📊 **GitHub Activity & Statistics**
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🔗 **Connect with me**
-
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="https://x.com/AndrixMcCormick" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-
-
-
+<div align="center">
+  <sub>Designed & engineered with precision by <a href="https://github.com/ndree97">Andrea Piscitelli</a></sub>
+</div>
