@@ -12,6 +12,12 @@
     <a href="https://x.com/AndrixMcCormick" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
     <a href="https://github.com/ndree97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
+
+  <p align="center">
+    <a href="https://github.com/ndree97">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDF8&multiline=true&center=true&vCenter=true&width=620&height=90&lines=%C2%ABPer+quanti+sforzi+possiate+fare+per+prevedere+il+futuro%2C%3Bil+futuro+vi+sorprender%C3%A0.%C2%BB%3B%E2%80%94+Giorgio+Parisi%2C+Premio+Nobel+per+la+Fisica" alt="Giorgio Parisi Quote" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -95,6 +101,27 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
+</div>
+
+---
+
+### ⏱️ **Weekly Coding Activity (WakaTime)**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 🎧 **Currently Playing / Vibe**
+
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ndree97&count=1" alt="Spotify Recently Played" />
+  </a>
 </div>
 
 ---

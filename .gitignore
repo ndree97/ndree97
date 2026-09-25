@@ -1,6 +1,9 @@
 *
 !.gitignore
-!.github
+!.github/
+!.github/**
+!profile-3d-contrib/
+!profile-3d-contrib/**
 !github-metrics.svg
 !README.md
 !rules.md
