@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Andrea Piscitelli</h1>
   <p><strong>R&D Software Engineer &nbsp;|&nbsp; 3D Computer Vision &nbsp;|&nbsp; Autonomous Systems & Robotics</strong></p>
   <p>
-    📍 <em>Caserta / Naples, Italy</em> &nbsp;•&nbsp; 
+    📍 <em>Naples, Italy</em> &nbsp;•&nbsp; 
     🏢 <em>R&D at 3F & Edin</em> &nbsp;•&nbsp; 
     📫 <a href="mailto:andrea.piscitelli.1997@gmail.com">andrea.piscitelli.1997@gmail.com</a>
   </p>
