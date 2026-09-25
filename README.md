@@ -13,30 +13,10 @@ I am a specialized software engineer based in **Caserta, Italy**, with a strong 
 
 ### 🛠️ **Core Tech Stack**
 
-**Languages & Scientific Computing**
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-4279F2?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
-**3D Computer Vision & Deep Learning**
-<p>
-    <img alt="Open3D" src="https://img.shields.io/badge/Open3D-333333?style=for-the-badge&logo=opengl&logoColor=white" />
-    <img alt="PCL" src="https://img.shields.io/badge/PCL-Point%20Cloud%20Library-blue?style=for-the-badge" />
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-**DevOps & Tools**
-<p>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,swift,matlab,js,html,css,bash,powershell,pytorch,tensorflow,opencv,anaconda,threejs,ros,cmake,arduino,raspberrypi,unity,react,vue,flutter,tailwind,bootstrap,fastapi,flask,nodejs,express,nestjs,graphql,mongodb,mysql,redis,kafka,gcp,cloudflare,vercel,supabase,firebase,docker,kubernetes,openstack,git,github,gitlab,npm,postman,gtk,latex,vscode,visualstudio,eclipse,md,obsidian,figma,ps,sketchup,ableton,notion,linux,apple,windows,discord,stackoverflow&perline=5" alt="My Skills" />
+  </a>
 </p>
 
 ---
