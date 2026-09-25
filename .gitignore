@@ -1,0 +1,6 @@
+*
+!.gitignore
+!github-metrics.svg
+!README.md
+!rules.md
+!update_project.py

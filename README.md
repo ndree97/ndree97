@@ -55,6 +55,27 @@ Deep Learning model tuning for classifying 3D outdoor scenes.
 
 ---
 
+### ⚡ **Recent Open Source Projects**
+
+<!-- START_SECTION:projects -->
+
+- 🐍 [**Extraction-of-Top-5-Football-Stats-2023-2024**](https://github.com/ndree97/Extraction-of-Top-5-Football-Stats-2023-2024) - *Python*  
+  A project for analyzing football player statistics from the top 5 leagues during the 2023-2024 season. The script reads data from a CSV file, processes it, and outputs an Excel file with separate sheets for each competition, providing insights on player performance. (⭐ 1)
+
+- 🐍 [**UP_DROP**](https://github.com/ndree97/UP_DROP) - *Python*  
+  No description provided. (⭐ 0)
+
+- 🐍 [**alwaysON**](https://github.com/ndree97/alwaysON) - *Python*  
+  No description provided. (⭐ 0)
+
+- 🐍 [**CSV-to-JSON-Converter**](https://github.com/ndree97/CSV-to-JSON-Converter) - *Python*  
+  This project contains a simple Python script designed to convert a CSV file into a JSON file. The script reads data from a specified CSV file, converts each row into a dictionary, and exports the result into a JSON file. It includes functionality to check if the input file exists and provides clear output in case of errors. (⭐ 0)
+
+
+<!-- END_SECTION:projects -->
+
+---
+
 ### 📈 **GitHub Stats**
 
 <div align="center">
