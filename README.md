@@ -7,10 +7,13 @@
     📫 <a href="mailto:andrea.piscitelli.1997@gmail.com">andrea.piscitelli.1997@gmail.com</a>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/AndrixMcCormick" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-    <a href="https://github.com/ndree97" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/AndrixMcCormick" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter / X" />
+    </a>
   </p>
 
   <p align="center">
@@ -106,7 +109,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+<!-- ---
 
 ### ⭐ **Star History**
 
@@ -118,7 +121,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
       <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" width="100%" />
     </picture>
   </a>
-</div>
+</div> -->
 
 ---
 
