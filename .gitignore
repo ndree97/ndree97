@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.github
 !github-metrics.svg
 !README.md
 !rules.md
