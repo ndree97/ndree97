@@ -31,6 +31,9 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 - 📐 **Geometric Vision & Robotics**: Developing multi-scale coarse-to-fine registration algorithms (FPFH + RANSAC + Point-to-Plane ICP) and integrating ROS/ROS2 with visual/LiDAR SLAM.
 
 ---
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
+</div>
 
 ### 🔬 **Featured Technical Projects & R&D**
 
@@ -95,10 +98,6 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 ### 📊 **GitHub Activity & Statistics**
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 </div>
@@ -118,16 +117,6 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" />
       <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" width="100%" />
     </picture>
-  </a>
-</div>
-
----
-
-### 🎧 **Currently Playing / Vibe**
-
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ndree97&count=1" alt="Spotify Recently Played" />
   </a>
 </div>
 
