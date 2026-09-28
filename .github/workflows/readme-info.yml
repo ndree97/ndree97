@@ -1,0 +1,46 @@
+name: GitHub README Info
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-info:
+    name: Generate README Info
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Ensure master branch is synced
+        run: |
+          git checkout -B master origin/main
+          git push origin master --force || true
+
+      - name: Run GitHub README Info Generator
+        uses: th3c0d3br34ker/github-readme-info@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          TIMEZONE: "Europe/Rome"
+          SHOW_DAILY_COMMIT: "False"
+          SHOW_WEEKLY_COMMIT: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_TOTAL_CONTRIBUTIONS: "False"
+
+      - name: Sync changes from master to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git checkout main
+          git checkout origin/master -- README.md
+          if ! git diff --quiet README.md; then
+            git commit -m "docs: auto-update readme-info stats [skip ci]"
+            git push origin main
+          fi

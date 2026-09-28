@@ -95,6 +95,28 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
+
+<!--START_SECTION_CONTRIBUTIONS:readme-info-->
+<!--END_SECTION_CONTRIBUTIONS:readme-info-->
+
+</div>
+
 <!-- ---
 
 ### ⭐ **Star History**
