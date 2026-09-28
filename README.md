@@ -18,7 +18,7 @@
 
   <p align="center">
     <a href="https://github.com/ndree97">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDF8&multiline=true&center=true&vCenter=true&width=620&height=90&lines=%C2%ABPer+quanti+sforzi+possiate+fare+per+prevedere+il+futuro%2C%3Bil+futuro+vi+sorprender%C3%A0.%C2%BB%3B%E2%80%94+Giorgio+Parisi%2C+Premio+Nobel+per+la+Fisica" alt="Giorgio Parisi Quote" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=38BDF8&multiline=true&center=true&vCenter=true&width=620&height=90&lines=%C2%ABPer+quanti+sforzi+possiate+fare+per+prevedere+il+futuro%2C%3Bil+futuro+vi+sorprender%C3%A0.%C2%BB%3B%E2%80%94+Giorgio+Parisi" alt="Giorgio Parisi Quote" />
     </a>
   </p>
 </div>
