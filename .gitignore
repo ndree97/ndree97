@@ -7,7 +7,4 @@
 !github-metrics.svg
 !README.md
 !rules.md
-!update_project.py
-
-!profile-3d-contrib/
-!profile-3d-contrib/**
+!update_projects.py
