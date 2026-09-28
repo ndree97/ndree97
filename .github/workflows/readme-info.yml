@@ -44,7 +44,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           if ! git diff-index --quiet HEAD; then
-            git pull --rebase origin main
             git commit -m "docs: auto-update readme-info stats [skip ci]"
+            git pull --rebase origin main
             git push origin main
           fi
