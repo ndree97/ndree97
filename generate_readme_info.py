@@ -99,9 +99,7 @@ def get_profile_views(username):
 
 def update_section(content, start_tag, end_tag, replacement_text):
     pattern = rf"({re.escape(start_tag)})([\s\S]*?)({re.escape(end_tag)})"
-    if re.search(pattern, content):
-        return re.sub(pattern, rf"\1\n{replacement_text}\n\3", content)
-    return content
+    return re.sub(pattern, lambda m: f"{m.group(1)}\n{replacement_text}\n{m.group(3)}", content)
 
 def main():
     show_lines_of_code = os.getenv("SHOW_LINES_OF_CODE", "True").lower() == "true"
