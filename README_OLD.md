@@ -24,6 +24,23 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
 </div>
 
+<!-- ### 🔬 **Featured Technical Projects & R&D**
+
+#### 🏭 [**Pipe Detector & 3D Geometry Fitting Engine**](https://github.com/ndree97)
+*Interactive desktop application for dense industrial point cloud inspection, pipe segmentation, and CAD geometry extraction.*
+- **Tech Stack:** Python 3.12, Open3D, VTK, PyVistaQt, PyQt5, SciPy, NumPy.
+- **Capabilities:** Fast KDTree spatial queries, automated RANSAC cylinder estimation, connectivity graph analysis, and multi-format export (`.pipeproject`, STL, VTK).
+
+#### ☁️ [**PC Navigator — High-Throughput Point Cloud Workstation**](https://github.com/ndree97)
+*Multi-threaded processing workstation for massive geospatial and industrial LiDAR data (LAS / LAZ).*
+- **Tech Stack:** Python, PyQt5, NumPy, Open3D, Multiprocessing Workers.
+- **Capabilities:** Real-time scalar field computation, statistical & radius outlier removal (SOR/ROR), vertical plane segmentation, and custom camera navigation filters.
+
+#### 🔄 [**Robust Coarse-to-Fine Point Cloud Registration Pipeline**](https://github.com/ndree97)
+*Production-ready pipeline for rigid alignment of multi-source and multi-scale point clouds.*
+- **Tech Stack:** Open3D, Python, C++, NumPy.
+- **Methodology:** Multi-scale voxel downsampling ➔ Hybrid normal estimation ➔ FPFH feature extraction ➔ RANSAC mutual-correspondence global alignment ➔ Point-to-Plane ICP refinement (inlier RMSE < 1e-3). -->
+
 ---
 
 ### 🛠️ **Tech Stack & Tooling**
@@ -46,7 +63,38 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 
 ---
 
+<!-- ### ⚡ **Recent Open Source Activity** -->
+
+<!-- START_SECTION:projects -->
+
+- 🐍 [**Extraction-of-Top-5-Football-Stats-2023-2024**](https://github.com/ndree97/Extraction-of-Top-5-Football-Stats-2023-2024) - *Python*  
+  A project for analyzing football player statistics from the top 5 leagues during the 2023-2024 season. The script reads data from a CSV file, processes it, and outputs an Excel file with separate sheets for each competition, providing insights on player performance. (⭐ 1)
+
+- 🐍 [**UP_DROP**](https://github.com/ndree97/UP_DROP) - *Python*  
+  No description provided. (⭐ 0)
+
+- 🐍 [**alwaysON**](https://github.com/ndree97/alwaysON) - *Python*  
+  No description provided. (⭐ 0)
+
+- 🐍 [**CSV-to-JSON-Converter**](https://github.com/ndree97/CSV-to-JSON-Converter) - *Python*  
+  This project contains a simple Python script designed to convert a CSV file into a JSON file. The script reads data from a specified CSV file, converts each row into a dictionary, and exports the result into a JSON file. It includes functionality to check if the input file exists and provides clear output in case of errors. (⭐ 0)
+
+
+<!-- END_SECTION:projects -->
+
+<!-- --- -->
+
+<!-- ### 📊 **GitHub Activity & Statistics** -->
 ### ✨📊 **Welcome to my GitHub Profile!**
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div> -->
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div> -->
 
 <div align="center">
 
@@ -102,10 +150,24 @@ JavaScript    1 repos █░░░░░░░░░░░░░░░░░░�
 
 </div>
 
+<!-- ---
+
+### ⭐ **Star History**
+
+<div align="center">
+  <a href="https://star-history.com/#ndree97/ndree97&ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ndree97/ndree97,ndree97/Extraction-of-Top-5-Football-Stats-2023-2024&type=Date" width="100%" />
+    </picture>
+  </a>
+</div> -->
+
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <a href="https://github.com/ndree97">Andrea Piscitelli</a></sub>
+  <sub>Designed & engineered with precision by <a href="https://github.com/ndree97">Andrea Piscitelli</a></sub>
   <br /><br />
   <p align="center">
     <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank">
