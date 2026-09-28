@@ -16,19 +16,46 @@
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written thousands of Lines of Code 🧑‍💻**
+**From Hello World I have written 1.6 million Lines of Code 🧑‍💻**
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
+```text
+I'm an early 🐤
+
+🌞 Morning     80 commits ███████░░░░░░░░░░░░░░░░░░  26.4%
+🌆 Daytime    174 commits ██████████████░░░░░░░░░░░  57.4%
+🌃 Evening     19 commits ██░░░░░░░░░░░░░░░░░░░░░░░   6.3%
+🌙 Night       30 commits ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
+```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+```text
+📅 I'm Most Productive on Wednesdays
+
+Monday        55 commits █████░░░░░░░░░░░░░░░░░░░░  18.2%
+Tuesday       44 commits ████░░░░░░░░░░░░░░░░░░░░░  14.5%
+Wednesday     64 commits █████░░░░░░░░░░░░░░░░░░░░  21.1%
+Thursday      62 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
+Friday        61 commits █████░░░░░░░░░░░░░░░░░░░░  20.1%
+Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+Sunday         5 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
+```text
+My 💖 language Python
+
+Python       38 repos ███████████████████████░░  92.7%
+HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
+JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--START_SECTION_CONTRIBUTIONS:readme-info-->
+**🏆 483 Contributions in year 2026**
 <!--END_SECTION_CONTRIBUTIONS:readme-info-->
 
 </div>
@@ -91,7 +118,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 
 <!-- START_SECTION:projects -->
 
-<!-- - 🐍 [**Extraction-of-Top-5-Football-Stats-2023-2024**](https://github.com/ndree97/Extraction-of-Top-5-Football-Stats-2023-2024) - *Python*  
+- 🐍 [**Extraction-of-Top-5-Football-Stats-2023-2024**](https://github.com/ndree97/Extraction-of-Top-5-Football-Stats-2023-2024) - *Python*  
   A project for analyzing football player statistics from the top 5 leagues during the 2023-2024 season. The script reads data from a CSV file, processes it, and outputs an Excel file with separate sheets for each competition, providing insights on player performance. (⭐ 1)
 
 - 🐍 [**UP_DROP**](https://github.com/ndree97/UP_DROP) - *Python*  
@@ -101,7 +128,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
   No description provided. (⭐ 0)
 
 - 🐍 [**CSV-to-JSON-Converter**](https://github.com/ndree97/CSV-to-JSON-Converter) - *Python*  
-  This project contains a simple Python script designed to convert a CSV file into a JSON file. The script reads data from a specified CSV file, converts each row into a dictionary, and exports the result into a JSON file. It includes functionality to check if the input file exists and provides clear output in case of errors. (⭐ 0) -->
+  This project contains a simple Python script designed to convert a CSV file into a JSON file. The script reads data from a specified CSV file, converts each row into a dictionary, and exports the result into a JSON file. It includes functionality to check if the input file exists and provides clear output in case of errors. (⭐ 0)
 
 
 <!-- END_SECTION:projects -->

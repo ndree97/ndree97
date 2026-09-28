@@ -30,10 +30,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           TIMEZONE: "Europe/Rome"
-          SHOW_DAILY_COMMIT: "False"
-          SHOW_WEEKLY_COMMIT: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
+          SHOW_DAILY_COMMIT: "True"
+          SHOW_WEEKLY_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TOTAL_CONTRIBUTIONS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
         run: python generate_readme_info.py
