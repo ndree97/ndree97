@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="100%" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370" width="100%" height="370">
   <defs>
     <style>
       .terminal {
         font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
         font-size: 13.5px;
-        line-height: 22px;
+        line-height: 20px;
       }
       @keyframes blink {
         0%, 100% { opacity: 1; }
@@ -18,7 +18,7 @@
   </defs>
 
   <!-- Window Frame -->
-  <rect x="0.5" y="0.5" width="719" height="279" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="719" height="369" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
   <!-- Title Bar -->
   <path d="M 0.5 10.5 Q 0.5 0.5 10.5 0.5 L 709.5 0.5 Q 719.5 0.5 719.5 10.5 L 719.5 36.5 L 0.5 36.5 Z" fill="#161b22"/>
@@ -30,19 +30,29 @@
   <circle cx="56" cy="18.5" r="6" fill="#27c93f" stroke="#1aab29" stroke-width="0.5"/>
 
   <!-- Title Text -->
-  <text x="360" y="23" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" text-anchor="middle">ndree97@caserta: ~ (zsh)</text>
+  <text x="360" y="23" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" text-anchor="middle">ndree97@napoli: ~ (zsh)</text>
 
   <!-- Terminal Content -->
   <text class="terminal" x="22" y="65">
-    <tspan x="22" dy="0"><tspan fill="#38bdf8" font-weight="bold">ndree97@caserta</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc">whoami</tspan></tspan>
-    <tspan x="22" dy="23"><tspan fill="#4ade80" font-weight="bold">Andrea Piscitelli</tspan> <tspan fill="#8b949e">—</tspan> <tspan fill="#e6edf3">R&amp;D Software Engineer | 3D Computer Vision &amp; Robotics</tspan></tspan>
+    <!-- Command 1: whoami -->
+    <tspan x="22" dy="0"><tspan fill="#38bdf8" font-weight="bold">ndree97@napoli</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc">whoami</tspan></tspan>
+    <tspan x="22" dy="22"><tspan fill="#4ade80" font-weight="bold">Andrea Piscitelli</tspan></tspan>
 
-    <tspan x="22" dy="30"><tspan fill="#38bdf8" font-weight="bold">ndree97@caserta</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc">cat profile.json</tspan></tspan>
-    <tspan x="22" dy="23"><tspan fill="#8b949e">{</tspan> <tspan fill="#f43f5e">"role"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"R&amp;D at 3F &amp; Edin"</tspan><tspan fill="#8b949e">,</tspan> <tspan fill="#f43f5e">"location"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"Naples, Italy"</tspan><tspan fill="#8b949e">,</tspan> <tspan fill="#f43f5e">"focus"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"Point Clouds, LiDAR &amp; NeRF"</tspan> <tspan fill="#8b949e">}</tspan></tspan>
+    <!-- Command 2: cat profile.json -->
+    <tspan x="22" dy="28"><tspan fill="#38bdf8" font-weight="bold">ndree97@napoli</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc">cat profile.json</tspan></tspan>
+    <tspan x="22" dy="22"><tspan fill="#8b949e">{</tspan></tspan>
+    <tspan x="22" dy="20">  <tspan fill="#f43f5e">"title"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"R&amp;D Software Engineer"</tspan><tspan fill="#8b949e">,</tspan></tspan>
+    <tspan x="22" dy="20">  <tspan fill="#f43f5e">"company"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"3F &amp; Edin"</tspan><tspan fill="#8b949e">,</tspan></tspan>
+    <tspan x="22" dy="20">  <tspan fill="#f43f5e">"location"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"Naples, Italy"</tspan><tspan fill="#8b949e">,</tspan></tspan>
+    <tspan x="22" dy="20">  <tspan fill="#f43f5e">"domain"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#7dd3fc">"3D Computer Vision &amp; Autonomous Systems"</tspan><tspan fill="#8b949e">,</tspan></tspan>
+    <tspan x="22" dy="20">  <tspan fill="#f43f5e">"focus"</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#8b949e">[</tspan></tspan>
+    <tspan x="22" dy="20">    <tspan fill="#7dd3fc">"Point Cloud Processing"</tspan><tspan fill="#8b949e">,</tspan></tspan>
+    <tspan x="22" dy="20">    <tspan fill="#7dd3fc">"LiDAR Integration"</tspan><tspan fill="#8b949e">,</tspan></tspan>
+    <tspan x="22" dy="20">    <tspan fill="#7dd3fc">"NeRF &amp; Geometric Deep Learning"</tspan></tspan>
+    <tspan x="22" dy="20">  <tspan fill="#8b949e">]</tspan></tspan>
+    <tspan x="22" dy="20"><tspan fill="#8b949e">}</tspan></tspan>
 
-    <tspan x="22" dy="30"><tspan fill="#38bdf8" font-weight="bold">ndree97@caserta</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan fill="#f0f6fc">echo $CONNECT</tspan></tspan>
-    <tspan x="22" dy="23"><tspan fill="#fbbf24">Email:</tspan> <tspan fill="#e6edf3">andrea.piscitelli.1997@gmail.com</tspan> <tspan fill="#8b949e">|</tspan> <tspan fill="#38bdf8">LinkedIn:</tspan> <tspan fill="#e6edf3">in/andrea-piscitelli-34379b153</tspan> <tspan fill="#8b949e">|</tspan> <tspan fill="#38bdf8">X:</tspan> <tspan fill="#e6edf3">@AndrixMcCormick</tspan></tspan>
-
-    <tspan x="22" dy="30"><tspan fill="#38bdf8" font-weight="bold">ndree97@caserta</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan class="cursor">▊</tspan></tspan>
+    <!-- Prompt with blinking cursor -->
+    <tspan x="22" dy="28"><tspan fill="#38bdf8" font-weight="bold">ndree97@napoli</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#a78bfa">~</tspan><tspan fill="#8b949e">$</tspan> <tspan class="cursor">▊</tspan></tspan>
   </text>
 </svg>

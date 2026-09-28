@@ -1,7 +1,17 @@
 <div align="center">
-
-  <h1>👋 Hi, I'm Andrea Piscitelli</h1>
   <img src="github-metrics.svg" alt="Terminal Header" width="100%" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/andrea-piscitelli-34379b153/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/AndrixMcCormick" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter / X" />
+    </a>
+    <a href="mailto:andrea.piscitelli.1997@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    </a>
+  </p>
 
   <p align="center">
     <a href="https://github.com/ndree97">
