@@ -16,7 +16,7 @@
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 3.1 thousand Lines of Code 🧑‍💻**
+**From Hello World I have written thousands of Lines of Code 🧑‍💻**
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
