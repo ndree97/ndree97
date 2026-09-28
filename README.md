@@ -21,26 +21,26 @@
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 ```text
-I'm a night 🦉
+I'm an early 🐤
 
-🌞 Morning     15 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
-🌆 Daytime     24 commits ████████░░░░░░░░░░░░░░░░░  30.0%
-🌃 Evening     12 commits ████░░░░░░░░░░░░░░░░░░░░░  15.0%
-🌙 Night       29 commits █████████░░░░░░░░░░░░░░░░  36.2%
+🌞 Morning     68 commits ███████░░░░░░░░░░░░░░░░░░  26.8%
+🌆 Daytime    159 commits ████████████████░░░░░░░░░  62.6%
+🌃 Evening      0 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌙 Night       27 commits ███░░░░░░░░░░░░░░░░░░░░░░  10.6%
 ```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 ```text
-📅 I'm Most Productive on Mondays
+📅 I'm Most Productive on Thursdays
 
-Monday        20 commits ██████░░░░░░░░░░░░░░░░░░░  25.0%
-Tuesday        9 commits ███░░░░░░░░░░░░░░░░░░░░░░  11.2%
-Wednesday      4 commits █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-Thursday      11 commits ███░░░░░░░░░░░░░░░░░░░░░░  13.8%
-Friday        20 commits ██████░░░░░░░░░░░░░░░░░░░  25.0%
-Saturday      12 commits ████░░░░░░░░░░░░░░░░░░░░░  15.0%
-Sunday         4 commits █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+Monday        53 commits █████░░░░░░░░░░░░░░░░░░░░  18.4%
+Tuesday       44 commits ████░░░░░░░░░░░░░░░░░░░░░  15.3%
+Wednesday     54 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
+Thursday      62 commits █████░░░░░░░░░░░░░░░░░░░░  21.5%
+Friday        59 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
+Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
@@ -48,7 +48,9 @@ Sunday         4 commits █░░░░░░░░░░░░░░░░░�
 ```text
 My 💖 language Python
 
-Python        5 repos █████████████████████████ 100.0%
+Python       38 repos ███████████████████████░░  92.7%
+HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
+JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
