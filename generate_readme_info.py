@@ -158,10 +158,10 @@ def get_commit_stats(repos):
         days = {"Monday": 53, "Tuesday": 44, "Wednesday": 54, "Thursday": 62, "Friday": 59, "Saturday": 12, "Sunday": 4}
         hours = {10: 30, 11: 38, 12: 30, 14: 34, 15: 26, 16: 50, 17: 19, 3: 27}
 
-    morning = sum(hours[h] for h in range(6, 12))
-    daytime = sum(hours[h] for h in range(12, 18))
-    evening = sum(hours[h] for h in range(18, 24))
-    night = sum(hours[h] for h in range(0, 6))
+    morning = sum(hours.get(h, 0) for h in range(6, 12))
+    daytime = sum(hours.get(h, 0) for h in range(12, 18))
+    evening = sum(hours.get(h, 0) for h in range(18, 24))
+    night = sum(hours.get(h, 0) for h in range(0, 6))
     total_day_commits = max(1, morning + daytime + evening + night)
 
     time_title = "I'm an early 🐤" if (morning + daytime) >= (evening + night) else "I'm a night 🦉"

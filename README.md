@@ -16,31 +16,31 @@
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.6 million Lines of Code 🧑‍💻**
+**From Hello World I have written 1.5 million Lines of Code 🧑‍💻**
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 ```text
-I'm an early 🐤
+I'm a night 🦉
 
-🌞 Morning     80 commits ███████░░░░░░░░░░░░░░░░░░  26.4%
-🌆 Daytime    174 commits ██████████████░░░░░░░░░░░  57.4%
-🌃 Evening     19 commits ██░░░░░░░░░░░░░░░░░░░░░░░   6.3%
-🌙 Night       30 commits ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
+🌞 Morning     15 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
+🌆 Daytime     24 commits ████████░░░░░░░░░░░░░░░░░  30.0%
+🌃 Evening     12 commits ████░░░░░░░░░░░░░░░░░░░░░  15.0%
+🌙 Night       29 commits █████████░░░░░░░░░░░░░░░░  36.2%
 ```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 ```text
-📅 I'm Most Productive on Wednesdays
+📅 I'm Most Productive on Mondays
 
-Monday        55 commits █████░░░░░░░░░░░░░░░░░░░░  18.2%
-Tuesday       44 commits ████░░░░░░░░░░░░░░░░░░░░░  14.5%
-Wednesday     64 commits █████░░░░░░░░░░░░░░░░░░░░  21.1%
-Thursday      62 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
-Friday        61 commits █████░░░░░░░░░░░░░░░░░░░░  20.1%
-Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-Sunday         5 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+Monday        20 commits ██████░░░░░░░░░░░░░░░░░░░  25.0%
+Tuesday        9 commits ███░░░░░░░░░░░░░░░░░░░░░░  11.2%
+Wednesday      4 commits █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+Thursday      11 commits ███░░░░░░░░░░░░░░░░░░░░░░  13.8%
+Friday        20 commits ██████░░░░░░░░░░░░░░░░░░░  25.0%
+Saturday      12 commits ████░░░░░░░░░░░░░░░░░░░░░  15.0%
+Sunday         4 commits █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 ```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
@@ -48,9 +48,7 @@ Sunday         5 commits ░░░░░░░░░░░░░░░░░░�
 ```text
 My 💖 language Python
 
-Python       38 repos ███████████████████████░░  92.7%
-HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
-JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+Python        5 repos █████████████████████████ 100.0%
 ```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
