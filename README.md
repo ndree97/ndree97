@@ -9,57 +9,6 @@
   </p>
 </div>
 
-<div align="center">
-
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ Welcome to my GitHub Profile!**
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.5 million Lines of Code 🧑‍💻**
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-```text
-I'm an early 🐤
-
-🌞 Morning     68 commits ███████░░░░░░░░░░░░░░░░░░  26.8%
-🌆 Daytime    159 commits ████████████████░░░░░░░░░  62.6%
-🌃 Evening      0 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌙 Night       27 commits ███░░░░░░░░░░░░░░░░░░░░░░  10.6%
-```
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-```text
-📅 I'm Most Productive on Thursdays
-
-Monday        53 commits █████░░░░░░░░░░░░░░░░░░░░  18.4%
-Tuesday       44 commits ████░░░░░░░░░░░░░░░░░░░░░  15.3%
-Wednesday     54 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
-Thursday      62 commits █████░░░░░░░░░░░░░░░░░░░░  21.5%
-Friday        59 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
-Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
-Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
-```
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-```text
-My 💖 language Python
-
-Python       38 repos ███████████████████████░░  92.7%
-HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
-JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
-```
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-<!--START_SECTION_CONTRIBUTIONS:readme-info-->
-**🏆 483 Contributions in year 2026**
-<!--END_SECTION_CONTRIBUTIONS:readme-info-->
-
-</div>
-
 ---
 
 ### 🚀 **About Me & Engineering Focus**
@@ -135,15 +84,70 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 
 <!-- --- -->
 
-### 📊 **GitHub Activity & Statistics**
+<!-- ### 📊 **GitHub Activity & Statistics** -->
+### ✨📊 **Welcome to my GitHub Profile!**
 
+<!-- <div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div> -->
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div> -->
+
+<div align="center">
+
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!-- **✨ Welcome to my GitHub Profile!** -->
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndree97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 </div>
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndree97&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 1.5 million Lines of Code 🧑‍💻**
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+```text
+I'm an early 🐤
+
+🌞 Morning     68 commits ███████░░░░░░░░░░░░░░░░░░  26.8%
+🌆 Daytime    159 commits ████████████████░░░░░░░░░  62.6%
+🌃 Evening      0 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌙 Night       27 commits ███░░░░░░░░░░░░░░░░░░░░░░  10.6%
+```
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+```text
+📅 I'm Most Productive on Thursdays
+
+Monday        53 commits █████░░░░░░░░░░░░░░░░░░░░  18.4%
+Tuesday       44 commits ████░░░░░░░░░░░░░░░░░░░░░  15.3%
+Wednesday     54 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
+Thursday      62 commits █████░░░░░░░░░░░░░░░░░░░░  21.5%
+Friday        59 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
+Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+```
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+```text
+My 💖 language Python
+
+Python       38 repos ███████████████████████░░  92.7%
+HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
+JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+```
+<!--END_SECTION_LANGUAGE:readme-info-->
+
+<!--START_SECTION_CONTRIBUTIONS:readme-info-->
+**🏆 483 Contributions in year 2026**
+<!--END_SECTION_CONTRIBUTIONS:readme-info-->
+
 </div>
 
 <!-- ---
