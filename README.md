@@ -98,9 +98,11 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 <div align="center">
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
+**✨ Welcome to my GitHub Profile!**
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 3.1 thousand Lines of Code 🧑‍💻**
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
