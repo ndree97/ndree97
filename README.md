@@ -1,4 +1,6 @@
 <div align="center">
+
+  <h1>👋 Hi, I'm Andrea Piscitelli</h1>
   <img src="github-metrics.svg" alt="Terminal Header" width="100%" />
 
   <p align="center">
