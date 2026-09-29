@@ -51,10 +51,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 <div align="center">
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!-- **✨ Welcome to my GitHub Profile!** -->
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndree97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+**✨ Welcome to my GitHub Profile!**
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
