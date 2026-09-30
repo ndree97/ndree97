@@ -46,7 +46,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 
 ---
 
-### ✨📊 **Welcome to my GitHub Profile!**
+### 📊 **GitHub Activity & Statistics**
 
 <div align="center">
 
