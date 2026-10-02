@@ -5,6 +5,8 @@
 !profile-3d-contrib/
 !profile-3d-contrib/**
 !github-metrics.svg
+!metrics.plugin.isocalendar.fullyear.svg
+!metrics.plugin.*.svg
 !README.md
 !rules.md
 !update_projects.py
