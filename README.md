@@ -34,6 +34,10 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndree97&theme=gotham&utcOffset=2" alt="Productive Time" />
 </div>
 
+<div align="center">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="100%" />
+</div>
+
 ---
 
 ### 🛠️ **Tech Stack & Tooling**
