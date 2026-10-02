@@ -27,7 +27,11 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 -->
 
 <div align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndree97&theme=gotham" alt="Profile Details" /><br/>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndree97&theme=gotham" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndree97&theme=gotham" alt="Most Commit Language" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndree97&theme=gotham" alt="GitHub Stats" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndree97&theme=gotham&utcOffset=2" alt="Productive Time" />
 </div>
 
 ---
