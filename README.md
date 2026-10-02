@@ -20,8 +20,14 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 - 📐 **Geometric Vision & Robotics**: Developing multi-scale coarse-to-fine registration algorithms (FPFH + RANSAC + Point-to-Plane ICP) and integrating ROS/ROS2 with visual/LiDAR SLAM.
 
 ---
+<!--
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
+</div>
+-->
+
+<div align="center">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="100%" />
 </div>
 
 ---
