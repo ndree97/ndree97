@@ -13,6 +13,10 @@
 
 ### 🚀 **About Me & Engineering Focus**
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Profile Contrib (Git Block)" width="100%" />
+</div>
+
 I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR Integration**, and **Robotics**. My work bridges the gap between hardware sensory acquisition and robust 3D reconstruction, computer vision, and autonomous inspection pipelines.
 
 - 🔭 **Current Focus**: Designing automated 3D reconstruction pipelines and autonomous inspection workstations at **3F & Edin**.
@@ -30,10 +34,6 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 
 <div align="center">
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="100%" />
-</div>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Profile Contrib (Git Block)" width="100%" />
 </div>
 
 ---
