@@ -63,7 +63,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 <div align="center">
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ Welcome to my GitHub Profile!**
+**✨ 14 people were here!**
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
@@ -74,24 +74,24 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 ```text
 I'm an early 🐤
 
-🌞 Morning     68 commits ███████░░░░░░░░░░░░░░░░░░  26.8%
-🌆 Daytime    159 commits ████████████████░░░░░░░░░  62.6%
-🌃 Evening      0 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌙 Night       27 commits ███░░░░░░░░░░░░░░░░░░░░░░  10.6%
+🌞 Morning     87 commits ███████░░░░░░░░░░░░░░░░░░  27.6%
+🌆 Daytime    179 commits ██████████████░░░░░░░░░░░  56.8%
+🌃 Evening     19 commits ██░░░░░░░░░░░░░░░░░░░░░░░   6.0%
+🌙 Night       30 commits ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
 ```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 ```text
-📅 I'm Most Productive on Thursdays
+📅 I'm Most Productive on Fridays
 
-Monday        53 commits █████░░░░░░░░░░░░░░░░░░░░  18.4%
-Tuesday       44 commits ████░░░░░░░░░░░░░░░░░░░░░  15.3%
-Wednesday     54 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
-Thursday      62 commits █████░░░░░░░░░░░░░░░░░░░░  21.5%
-Friday        59 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
-Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
-Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+Monday        67 commits █████░░░░░░░░░░░░░░░░░░░░  21.3%
+Tuesday       50 commits ████░░░░░░░░░░░░░░░░░░░░░  15.9%
+Wednesday     48 commits ████░░░░░░░░░░░░░░░░░░░░░  15.2%
+Thursday      61 commits █████░░░░░░░░░░░░░░░░░░░░  19.4%
+Friday        73 commits ██████░░░░░░░░░░░░░░░░░░░  23.2%
+Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
@@ -99,14 +99,14 @@ Sunday         4 commits ░░░░░░░░░░░░░░░░░░�
 ```text
 My 💖 language Python
 
-Python       38 repos ███████████████████████░░  92.7%
-HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.9%
-JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+Python       40 repos ███████████████████████░░  93.0%
+HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.7%
+JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--START_SECTION_CONTRIBUTIONS:readme-info-->
-**🏆 483 Contributions in year 2026**
+**🏆 521 Contributions in year 2026**
 <!--END_SECTION_CONTRIBUTIONS:readme-info-->
 
 </div>
