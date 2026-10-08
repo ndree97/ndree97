@@ -74,10 +74,10 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 ```text
 I'm an early 🐤
 
-🌞 Morning     88 commits ███████░░░░░░░░░░░░░░░░░░  27.8%
-🌆 Daytime    179 commits ██████████████░░░░░░░░░░░  56.5%
-🌃 Evening     20 commits ██░░░░░░░░░░░░░░░░░░░░░░░   6.3%
-🌙 Night       30 commits ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
+🌞 Morning     88 commits ███████░░░░░░░░░░░░░░░░░░  27.4%
+🌆 Daytime    179 commits ██████████████░░░░░░░░░░░  55.8%
+🌃 Evening     24 commits ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+🌙 Night       30 commits ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
 ```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
@@ -85,13 +85,13 @@ I'm an early 🐤
 ```text
 📅 I'm Most Productive on Fridays
 
-Monday        67 commits █████░░░░░░░░░░░░░░░░░░░░  21.1%
-Tuesday       53 commits ████░░░░░░░░░░░░░░░░░░░░░  16.7%
-Wednesday     48 commits ████░░░░░░░░░░░░░░░░░░░░░  15.1%
-Thursday      61 commits █████░░░░░░░░░░░░░░░░░░░░  19.2%
-Friday        72 commits ██████░░░░░░░░░░░░░░░░░░░  22.7%
-Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
-Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+Monday        62 commits █████░░░░░░░░░░░░░░░░░░░░  19.3%
+Tuesday       53 commits ████░░░░░░░░░░░░░░░░░░░░░  16.5%
+Wednesday     59 commits █████░░░░░░░░░░░░░░░░░░░░  18.4%
+Thursday      61 commits █████░░░░░░░░░░░░░░░░░░░░  19.0%
+Friday        70 commits █████░░░░░░░░░░░░░░░░░░░░  21.8%
+Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
@@ -99,14 +99,15 @@ Sunday         4 commits ░░░░░░░░░░░░░░░░░░�
 ```text
 My 💖 language Python
 
-Python       40 repos ███████████████████████░░  93.0%
-HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.7%
-JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+Python       41 repos ███████████████████████░░  91.1%
+HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
+TypeScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
+JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--START_SECTION_CONTRIBUTIONS:readme-info-->
-**🏆 524 Contributions in year 2026**
+**🏆 536 Contributions in year 2026**
 <!--END_SECTION_CONTRIBUTIONS:readme-info-->
 
 </div>
