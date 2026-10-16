@@ -63,7 +63,7 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 <div align="center">
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 14 people were here!**
+**✨ 2 people were here!**
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
