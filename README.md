@@ -74,10 +74,10 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 ```text
 I'm an early 🐤
 
-🌞 Morning     93 commits ███████░░░░░░░░░░░░░░░░░░  27.0%
-🌆 Daytime    192 commits ██████████████░░░░░░░░░░░  55.7%
-🌃 Evening     29 commits ██░░░░░░░░░░░░░░░░░░░░░░░   8.4%
-🌙 Night       31 commits ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
+🌞 Morning     96 commits ███████░░░░░░░░░░░░░░░░░░  27.3%
+🌆 Daytime    196 commits ██████████████░░░░░░░░░░░  55.7%
+🌃 Evening     29 commits ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
+🌙 Night       31 commits ██░░░░░░░░░░░░░░░░░░░░░░░   8.8%
 ```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
@@ -85,13 +85,13 @@ I'm an early 🐤
 ```text
 📅 I'm Most Productive on Mondays
 
-Monday        86 commits ██████░░░░░░░░░░░░░░░░░░░  24.9%
-Tuesday       54 commits ████░░░░░░░░░░░░░░░░░░░░░  15.7%
-Wednesday     66 commits █████░░░░░░░░░░░░░░░░░░░░  19.1%
-Thursday      50 commits ████░░░░░░░░░░░░░░░░░░░░░  14.5%
-Friday        73 commits █████░░░░░░░░░░░░░░░░░░░░  21.2%
-Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
-Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+Monday        86 commits ██████░░░░░░░░░░░░░░░░░░░  24.4%
+Tuesday       54 commits ████░░░░░░░░░░░░░░░░░░░░░  15.3%
+Wednesday     66 commits █████░░░░░░░░░░░░░░░░░░░░  18.8%
+Thursday      58 commits ████░░░░░░░░░░░░░░░░░░░░░  16.5%
+Friday        72 commits █████░░░░░░░░░░░░░░░░░░░░  20.5%
+Saturday      12 commits █░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
@@ -99,16 +99,16 @@ Sunday         4 commits ░░░░░░░░░░░░░░░░░░�
 ```text
 My 💖 language Python
 
-Python       42 repos ██████████████████████░░░  87.5%
-TypeScript    2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
-HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
-Rust          1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
-JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
+Python       43 repos ██████████████████████░░░  87.8%
+TypeScript    2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
+HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
+Rust          1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
+JavaScript    1 repos █░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--START_SECTION_CONTRIBUTIONS:readme-info-->
-**🏆 575 Contributions in year 2026**
+**🏆 584 Contributions in year 2026**
 <!--END_SECTION_CONTRIBUTIONS:readme-info-->
 
 </div>
