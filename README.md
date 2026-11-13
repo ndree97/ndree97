@@ -74,10 +74,10 @@ I am an R&D Software Engineer specialized in **Point Cloud Processing**, **LiDAR
 ```text
 I'm an early 🐤
 
-🌞 Morning     82 commits ██████░░░░░░░░░░░░░░░░░░░  23.4%
-🌆 Daytime    207 commits ███████████████░░░░░░░░░░  59.1%
-🌃 Evening     30 commits ██░░░░░░░░░░░░░░░░░░░░░░░   8.6%
-🌙 Night       31 commits ██░░░░░░░░░░░░░░░░░░░░░░░   8.9%
+🌞 Morning     53 commits █████░░░░░░░░░░░░░░░░░░░░  20.6%
+🌆 Daytime    145 commits ██████████████░░░░░░░░░░░  56.4%
+🌃 Evening     28 commits ███░░░░░░░░░░░░░░░░░░░░░░  10.9%
+🌙 Night       31 commits ███░░░░░░░░░░░░░░░░░░░░░░  12.1%
 ```
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
 
@@ -85,13 +85,13 @@ I'm an early 🐤
 ```text
 📅 I'm Most Productive on Mondays
 
-Monday        87 commits ██████░░░░░░░░░░░░░░░░░░░  24.9%
-Tuesday       54 commits ████░░░░░░░░░░░░░░░░░░░░░  15.4%
-Wednesday     67 commits █████░░░░░░░░░░░░░░░░░░░░  19.1%
-Thursday      55 commits ████░░░░░░░░░░░░░░░░░░░░░  15.7%
-Friday        63 commits ████░░░░░░░░░░░░░░░░░░░░░  18.0%
-Saturday      20 commits █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
-Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+Monday        78 commits ████████░░░░░░░░░░░░░░░░░  30.4%
+Tuesday       32 commits ███░░░░░░░░░░░░░░░░░░░░░░  12.5%
+Wednesday     40 commits ████░░░░░░░░░░░░░░░░░░░░░  15.6%
+Thursday      39 commits ████░░░░░░░░░░░░░░░░░░░░░  15.2%
+Friday        44 commits ████░░░░░░░░░░░░░░░░░░░░░  17.1%
+Saturday      20 commits ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
+Sunday         4 commits ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
@@ -99,16 +99,16 @@ Sunday         4 commits ░░░░░░░░░░░░░░░░░░�
 ```text
 My 💖 language Python
 
-Python       45 repos ██████████████████████░░░  86.5%
-TypeScript    3 repos █░░░░░░░░░░░░░░░░░░░░░░░░   5.8%
-HTML          2 repos █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+Python       45 repos █████████████████████░░░░  84.9%
+HTML          3 repos █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
+TypeScript    3 repos █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
 Rust          1 repos ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 JavaScript    1 repos ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--START_SECTION_CONTRIBUTIONS:readme-info-->
-**🏆 566 Contributions in year 2026**
+**🏆 574 Contributions in year 2026**
 <!--END_SECTION_CONTRIBUTIONS:readme-info-->
 
 </div>
